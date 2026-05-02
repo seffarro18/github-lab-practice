@@ -1,1 +1,1 @@
-Initial Commit
+This is Student A's Project.
